@@ -28,11 +28,10 @@ A passionate frontend developer from Indonesia, with experience in backend devel
 ---
 
 ### GitHub Stats:
-![Fannyarum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fannyarum&show_icons=true&theme=radical)
+![Fannyarum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fannyarum&show_icons=true&theme=light)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fannyarum&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fannyarum&layout=compact&theme=light)
 
----
 
 ### Achievements:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fannyarum&theme=white)](https://github.com/ryo-ma/github-profile-trophy)
