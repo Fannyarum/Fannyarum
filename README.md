@@ -35,4 +35,5 @@ A passionate frontend developer from Indonesia, with experience in backend devel
 ---
 
 ### Achievements:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fannyarum&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fannyarum&theme=white)](https://github.com/ryo-ma/github-profile-trophy)
+
